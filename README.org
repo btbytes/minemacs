@@ -1,0 +1,10 @@
+* minemacs
+
+minemacs ("minimal emacs") setup to be shared between different langauge specific
+settings.
+
+I'm tired of chasing Emacs' "Omnibus Configuration Pattern". Instead,
+I'll maintain emacs configs that are just enough to be productive in
+one language, and import the common functionality from this set of
+files.
+
